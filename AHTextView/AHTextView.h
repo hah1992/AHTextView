@@ -6,6 +6,7 @@
 //  Copyright © 2015年 黄安华. All rights reserved.
 //
 
+//test
 #import <UIKit/UIKit.h>
 @class AHTextView;
 typedef BOOL (^shouldBlock) (AHTextView *textView);
